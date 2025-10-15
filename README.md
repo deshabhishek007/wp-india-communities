@@ -1,32 +1,56 @@
 # WordPress Community India
 
-A comprehensive list of WordPress meetup chapters across India.
+A comprehensive list of WordPress meetup chapters across India, organized by state.
 
 ## Meetup Chapters
 
-### Northern India
-- [WordPress Delhi](https://www.meetup.com/delhi-wordpress/)
+### Andhra Pradesh
+- [WordPress Hyderabad](https://www.meetup.com/hyderabad-wordpress/)
+
+### Chhattisgarh
+- No active meetup chapters currently listed
+
+### Chandigarh (UT)
 - [WordPress Chandigarh](https://www.meetup.com/chandigarh-wordpress-meetup/)
-- [WordPress Jaipur](https://www.meetup.com/jaipur-wordpress/)
-- [WordPress Lucknow](https://www.meetup.com/wordpress-lucknow/)
+
+### Delhi (NCT)
+- [WordPress Delhi](https://www.meetup.com/delhi-wordpress/)
 - [WordPress Noida](https://www.meetup.com/noida-wordpress/)
 
-### Western India
-- [WordPress Mumbai](https://www.meetup.com/mumbai-wordpress/)
-- [WordPress Pune](https://www.meetup.com/pune-wordpress/)
+### Gujarat
 - [WordPress Ahmedabad](https://www.meetup.com/ahmedabad-wordpress/)
 - [WordPress Surat](https://www.meetup.com/surat-wordpress/)
 
-### Southern India
+### Karnataka
 - [WordPress Bangalore](https://www.meetup.com/bangalore-wordpress/)
-- [WordPress Chennai](https://www.meetup.com/chennai-wordpress/)
-- [WordPress Hyderabad](https://www.meetup.com/hyderabad-wordpress/)
+
+### Kerala
 - [WordPress Kochi](https://www.meetup.com/kochi-wordpress/)
+
+### Madhya Pradesh
+- [WordPress Bhopal](https://www.meetup.com/bhopal-wordpress/)
+
+### Maharashtra
+- [WordPress Mumbai](https://www.meetup.com/mumbai-wordpress/)
+- [WordPress Pune](https://www.meetup.com/pune-wordpress/)
+- [WordPress Nagpur](https://www.meetup.com/nagpur-wordpress/)
+- [WordPress Bhandara](https://www.meetup.com/bhandara-wordpress/)
+
+### Odisha
+- [WordPress Bhubaneswar](https://www.meetup.com/bhubaneswar-wordpress/)
+
+### Rajasthan
+- [WordPress Jaipur](https://www.meetup.com/jaipur-wordpress/)
+
+### Tamil Nadu
+- [WordPress Chennai](https://www.meetup.com/chennai-wordpress/)
 - [WordPress Coimbatore](https://www.meetup.com/coimbatore-wordpress/)
 
-### Eastern India
+### Uttar Pradesh
+- [WordPress Lucknow](https://www.meetup.com/wordpress-lucknow/)
+
+### West Bengal
 - [WordPress Kolkata](https://www.meetup.com/kolkata-wordpress/)
-- [WordPress Bhubaneswar](https://www.meetup.com/bhubaneswar-wordpress/)
 
 ## Contributing
 
