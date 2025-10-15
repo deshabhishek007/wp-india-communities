@@ -1,5 +1,4 @@
 # WordPress Community India
-
 A comprehensive list of WordPress meetup chapters across India, organized by state.
 
 ## Meetup Chapters
@@ -11,7 +10,7 @@ A comprehensive list of WordPress meetup chapters across India, organized by sta
 - No active meetup chapters currently listed
 
 ### Chandigarh (UT)
-- No active meetup chapters currently listed
+- [WordPress Chandigarh (Tri-City)](https://www.meetup.com/WordPress-Chandigarh/)
 
 ### Delhi (NCT)
 - [WordPress Delhi NCR Meetup Group](https://www.meetup.com/wordpress-new-delhi/)
@@ -58,26 +57,9 @@ A comprehensive list of WordPress meetup chapters across India, organized by sta
 ### Rajasthan
 - [WordPress Jaipur](https://www.meetup.com/wordpress-jaipur/)
 - [Udaipur WordPress Meetup](https://www.meetup.com/udaipur-wordpress-meetup/)
-- [Kota WordPress Meetup Group](https://www.meetup.com/kota-wordpress-meetup-group/)
-- [Bhilwara WordPress Meetup](https://www.meetup.com/bhilwara-wordpress-meetup/)
-- [Ajmer WordPress Community](https://www.meetup.com/ajmer-wordpress-community/)
-- [WordPress Alwar](https://www.meetup.com/wpalwar/)
 
 ### Tamil Nadu
-- [Chennai WordPress Meetup](https://www.meetup.com/chennai-wordpress-meetup/)
-- [Coimbatore WordPress Meetup](https://www.meetup.com/coimbatore-wordpress-meetup/)
+- [Madurai WordPress Meetup Group](https://www.meetup.com/Madurai-WordPress-Meetup-Group/)
 
 ### Uttar Pradesh
-- [Lucknow WordPress Meetup](https://www.meetup.com/lucknow-wordpress-meetup/)
-- [Agra WordPress Meetup](https://www.meetup.com/agra-wordpress-meetup/)
-- [Kanpur WordPress Meetup](https://www.meetup.com/wordpress-kanpur/)
-- [Varanasi WordPress Meetup](https://www.meetup.com/wpvaranasi/)
-- [Fatehpur WordPress Meetup](https://www.meetup.com/fatehpur-wordpress-meetup/)
 - [WordPress LMP Meetup (Lakhimpur Kheri)](https://www.meetup.com/wp-lmp/)
-
-### West Bengal
-- [WordPress Kolkata](https://www.meetup.com/kolkata-wordpress/)
-
-## Contributing
-
-If you know of any other WordPress meetup chapters in India that are not listed here, please feel free to contribute by opening a pull request or issue.
